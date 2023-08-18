@@ -4,6 +4,7 @@ Welcome to a very simple script that I whipped up during class because manually 
 ## Setting up
 Due to this being very basic to setup just do the following
 
+- Make sure to have the latest verion of python installed
 - Install [Colorama](https://github.com/tartley/colorama)
 - Run the python file like you normally would
 - Have a cup of tea
