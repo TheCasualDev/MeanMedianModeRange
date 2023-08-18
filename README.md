@@ -6,7 +6,7 @@ Due to this being very basic to setup just do the following
 
 - Make sure to have the latest verion of python installed
 - Install [Colorama](https://github.com/tartley/colorama)
-- Download via download raw file button on [here](https://github.com/TheCasualDev/MeanMedianModeRange/blob/main/main.py) or [here](https://raw.githubusercontent.com/TheCasualDev/MeanMedianModeRange/main/main.py)
+- Download via download raw file button on [here](https://github.com/TheCasualDev/MeanMedianModeRange/blob/main/main.py) or [right click on this text and hit save link as](https://raw.githubusercontent.com/TheCasualDev/MeanMedianModeRange/main/main.py)
 - Run the python file like you normally would
 - Have a cup of tea
 
